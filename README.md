@@ -4,7 +4,7 @@
 
 - Compatível com todos os dispositivos móveis e com uma interface de usuário bonita e agradável, sendo totalmente responsivo.
 
-- Utilizando somente HTML, CSS e javaScritp.
+- Utilizando somente HTML, CSS e javaScript.
 
 ### 📸 | Screenshots: 
 
